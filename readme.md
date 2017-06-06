@@ -18,6 +18,11 @@ Web application and load balancer.
 
 Module in charge of initializing the controller and the Httpmon external application in charge of simulating the workload.
 
+### Workload
+
+32 hours of pre-procesed workload from wikipedia of the extensions the extensions de, es, com and ca.
+The full Wikipedia workload is available at http://www.wikibench.eu/?page_id=60
+
 ## Dependencies
 
 - Docker SDK for Python: https://github.com/docker/docker-py
@@ -33,6 +38,7 @@ Module in charge of initializing the controller and the Httpmon external applica
 ##### HAProxy Load Balancer:
 
 - sudo docker pull tutum/haproxy
+
 ### TODO:
 
 Organize and upload the previously design algorithms.
