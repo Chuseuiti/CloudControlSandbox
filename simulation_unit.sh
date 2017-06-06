@@ -1,5 +1,8 @@
 #!/bin/bash
-# Script executing httpmon and sending the corresponding workload every 8 seconds, 8 seconds is the granularity defined in the output workload csv file
+
+# Script developed by Jesus Cardenes
+
+# Script executing the controller, and httpmon sending the corresponding workload every 8 seconds, 8 seconds is the granularity defined in the output workload csv file
 
 #./httpmon-master/httpmon --url http://localhost/PHP/index.html --concurrency 100
 
