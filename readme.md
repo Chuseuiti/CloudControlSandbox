@@ -33,3 +33,7 @@ Module in charge of initializing the controller and the Httpmon external applica
 ##### HAProxy Load Balancer:
 
 - sudo docker pull tutum/haproxy
+### TODO:
+
+Organize and upload the previously design algorithms.
+Refractor the code of the project.
