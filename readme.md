@@ -46,7 +46,5 @@ If you would like to use the presented CloudControlSandbox and/or the experiment
 Jesús Alejandro Cárdenes, Doina Precup, Ricardo Sanz. "Horizontal and Vertical Self-Adaptive Cloud Controller with Reward Optimization for Resource Allocation" , Universidad Politécnica de Madrid and McGill University, ICCAC 2017
 
 ### TODO:
-
-Organize and upload the previously design algorithms.
 Refractor the code of the project.
 
