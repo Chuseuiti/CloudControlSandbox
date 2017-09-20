@@ -1,4 +1,4 @@
-# Cloud Control Sandbox, CSS
+# Cloud Control Sandbox, CCS
 
 Project developed for the research on self-adaptive cloud controllers. 
 
