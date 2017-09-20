@@ -39,7 +39,9 @@ The full Wikipedia workload is available at http://www.wikibench.eu/?page_id=60
 
 - sudo docker pull tutum/haproxy
 
-### If you would like to use the presented CloudControlSandbox and/or the experiments (FL, Self-adaptive FL...) please cite the following work:
+### Publication
+
+If you would like to use the presented CloudControlSandbox and/or the experiments (FL, Self-adaptive FL...) please cite the following work:
 
 Jesús Alejandro Cárdenes, Doina Precup, Ricardo Sanz. "Horizontal and Vertical Self-Adaptive Cloud Controller with Reward Optimization for Resource Allocation" , Universidad Politécnica de Madrid and McGill University, ICCAC 2017
 
