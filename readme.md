@@ -39,7 +39,7 @@ The full Wikipedia workload is available at http://www.wikibench.eu/?page_id=60
 
 - sudo docker pull tutum/haproxy
 
-### Publication
+# Publication
 
 If you would like to use the presented CloudControlSandbox and/or the experiments (FL, Self-adaptive FL...) please cite the following work:
 
