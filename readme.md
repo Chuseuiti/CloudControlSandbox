@@ -8,7 +8,7 @@ This component is in charge of the deployment of micro services and taking actio
 
 ### Central Unit       
 
-Module containing the scalability algorithms. As an example, the algorithms developed for the article submited to ICCAC 2017. 
+Module containing the scalability algorithms. As an example, the algorithms developed for the article submited to ICCAC 2017 (Extended abstract and poster). 
 
 ### Computing Resources       
 
