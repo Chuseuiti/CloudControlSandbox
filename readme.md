@@ -45,7 +45,7 @@ If you would like to use the presented CloudControlSandbox and/or the experiment
 
 _Jesús Alejandro Cárdenes, Doina Precup, Ricardo Sanz. "Horizontal and Vertical Self-Adaptive Cloud Controller with Reward Optimization for Resource Allocation" , Universidad Politécnica de Madrid and McGill University, ICCAC 2017_
 
-Please take into consideration that the presented work in ICCAC 2017 only covers part of my research. Therefore, please let me know if you would like to be interested on having the full document. ( It contains all the information of the cloud control sandbox, the definition of the rewards and the optimal selection of the target thanks to the ORORM for percentage of memory usage.)
+Please take into consideration that the presented work in ICCAC 2017 only covers part of my research. Therefore, please let me know if you would like to have a copy of my full master thesis. ( It contains all the information of the cloud control sandbox, the definition of the rewards and the optimal selection of the target thanks to the ORORM for percentage of memory usage.)
 
 
 
