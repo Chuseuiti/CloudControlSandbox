@@ -8,7 +8,7 @@ This component is in charge of the deployment of micro services and taking actio
 
 ### Central Unit       
 
-Module containing the scalability algorithms. As an example, the algorithms developed for the article submited to ICCAC 2017 will be uploaded. 
+Module containing the scalability algorithms. As an example, the algorithms developed for the article submited to ICCAC 2017. 
 
 ### Computing Resources       
 
@@ -39,7 +39,12 @@ The full Wikipedia workload is available at http://www.wikibench.eu/?page_id=60
 
 - sudo docker pull tutum/haproxy
 
+### If you would like to use the presented CloudControlSandbox and/or the experiments (FL, Self-adaptive FL...) please cite the following work:
+
+Jesús Alejandro Cárdenes, Doina Precup, Ricardo Sanz. "Horizontal and Vertical Self-Adaptive Cloud Controller with Reward Optimization for Resource Allocation" , Universidad Politécnica de Madrid and McGill University, ICCAC 2017
+
 ### TODO:
 
 Organize and upload the previously design algorithms.
 Refractor the code of the project.
+
