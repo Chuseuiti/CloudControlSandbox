@@ -43,7 +43,7 @@ The full Wikipedia workload is available at http://www.wikibench.eu/?page_id=60
 
 If you would like to use the presented CloudControlSandbox and/or the experiments (FL, Self-adaptive FL...) please cite the following work:
 
-_Jesús Alejandro Cárdenes, Doina Precup, Ricardo Sanz. "Horizontal and Vertical Self-Adaptive Cloud Controller with Reward Optimization for Resource Allocation" , Universidad Politécnica de Madrid and McGill University, ICCAC 2017_
+Cabré, Jesús Alejandro Cárdenes, Doina Precup, and Ricardo Sanz. "Horizontal and Vertical Self-Adaptive Cloud Controller with Reward Optimization for Resource Allocation." Cloud and Autonomic Computing (ICCAC), 2017 International Conference on. IEEE, 2017.
 
 Please take into consideration that the presented work in ICCAC 2017 only covers part of my research. Therefore, please let me know if you would like to have a copy of my full master thesis. ( It contains all the information of the cloud control sandbox, the definition of the rewards and the optimal selection of the target thanks to the ORORM for percentage of memory usage.)
 
