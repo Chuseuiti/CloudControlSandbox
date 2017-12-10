@@ -50,5 +50,5 @@ Please take into consideration that the presented work in ICCAC 2017 only covers
 
 
 ### TODO:
-Refractor the code of the project.
+Code refactoring of the project.
 
